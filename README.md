@@ -1,5 +1,14 @@
 ## Hi there 👋 I'm Naveen Krishna Kamuju
 
+
+<h1 align="center">Hi there 👋 I'm Naveen Krishna Kamuju</h1>
+<h3 align="center">DevOps | SRE | Cloud Engineer</h3>
+<p align="center">
+  <a href="https://github.com/DenverCoder1/readme-typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=FF8C00&center=true&vCenter=true&width=1100&lines=Site+Reliability+Engineer;DevOps+Engineer;Cloud+Engineer;AWS+%7C+Linux+%7C+Kubernetes+%7C+Terraform+%7C+Ansible+%7C+ArgoCD+GitLab+CI%2FCD+%7C+Jenkins+%7C+GitHub+Actions" alt="Typing SVG" />
+  </a>
+</p>
+
 <!--
 **kamuju25/kamuju25** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
