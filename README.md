@@ -9,6 +9,15 @@
   </a>
 </p>
 
+🧑‍💻 About Me
+
+
+🧑‍💻 DevOps and SRE professional with 6+ years of hands-on industry experience.
+🚀 Skilled in working with AWS, Terraform, Linux, GitLab CI/CD, Jenkins, Ansible, Docker, Kubernetes, Git, and ArgoCD.
+⚙️ Strong background in designing scalable infrastructure and streamlining delivery through automated CI/CD pipelines.
+🌱 Always expanding my knowledge of cloud-native technologies.
+🤝 Open to new opportunities in SRE, DevOps and Cloud engineering.
+
 <!--
 **kamuju25/kamuju25** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
